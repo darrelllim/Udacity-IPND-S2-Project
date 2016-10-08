@@ -31,21 +31,21 @@ How can you adapt that design to work with numbered blanks?
 
 If you need help, you can sign up for a 1 on 1 coaching appointment: https://calendly.com/ipnd-1-1/20min/
 
-#Set blank count to 0
-#For answer in answers:
-#blank string is equal to blanks list at index of blank count
-#print question
-#player guess equals input: print what is the answer to blank string
-#while player guess isn't euqal to answe
-#ask again
-#if we're here, the question was answered correctly. Yay..
-#replace the blank string in the question with the answer
-#add one to blank counter
-#if we're here for loop is done, all answers answered successfully.
+Set blank count to 0
+For answer in answers:
+blank string is equal to blanks list at index of blank count
+print question
+player guess equals input: print what is the answer to blank string
+while player guess isn't euqal to answe
+ask again
+if we're here, the question was answered correctly. Yay..
+replace the blank string in the question with the answer
+add one to blank counter
+if we're here for loop is done, all answers answered successfully.
 
 
-#level = get_level()
-#answer_list, question_string = select_quiz(level)
-#play_game(answer_list, question_string)
+level = get_level()
+answer_list, question_string = select_quiz(level)
+play_game(answer_list, question_string)
 
-#Select level of difficulty by typing into it. possible choics include easy, medium and hard. 
+Select level of difficulty by typing into it. possible choics include easy, medium and hard. 
