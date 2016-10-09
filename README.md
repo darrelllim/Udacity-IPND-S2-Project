@@ -1,6 +1,6 @@
 # Udacity-IPND-S2-Project
 S2, own quiz to be reviewed
-#S2Qt3.py is the latest. #
+#S2Qt4.py is the latest. #
 
 IPND Stage 2 Final Project
 
